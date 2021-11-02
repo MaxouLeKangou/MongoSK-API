@@ -9,10 +9,10 @@ Assurez-vous de posséder la dernière version de [MongoSK](https://github.com/R
 Vous devez tout d'abord connecter MongoSK-API à votre base de donnée. Pour cela, il suffit de modifier les informations suivantes :
 ```
 options:
-    user: root  # Identifiant MongoDB
-    password: root # Mot de passe MongoDB
-    address: 127.0.0.1:27017 # IP de votre base de donnée (si elle est sur la même machine laissé comme cela):Port de votre base de donnée (27017 est le port de base de MongoDB)
-    database: Skript # Base de donnée sur laquelle vous voulez stocker vos données
+    user: root   # Identifiant MongoDB
+    password: root   # Mot de passe MongoDB
+    address: 127.0.0.1:27017   # IP de votre base de donnée (si elle est sur la même machine laissé comme cela):Port de votre base de donnée (27017 est le port de base de MongoDB)
+    database: Skript   # Base de donnée sur laquelle vous voulez stocker vos données
 ```
 ## 🎓 **Vous avez besoin d'aide ?**
 
