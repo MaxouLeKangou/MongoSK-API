@@ -1,5 +1,6 @@
-# MongoSK-API - Documentation
-_MongoSK-API est un skript permettant d'utiliser facilement l'add-on MongoSK !_
+<h1 align="center">MongoSK-API - Documentation</h1>
+<p align="center">MongoSK-API est un skript permettant d'utiliser facilement l'add-on MongoSK !</p><br />
+
 ## 🏹 Plus d'informations ?
 Vous souhaitez avoir des informations sur comment télécharger et installer ce code ?
 Rendez vous sur cette page : [README.md](https://github.com/Maxime-LEGRAND/MongoSK-API/blob/principal/README.md)
