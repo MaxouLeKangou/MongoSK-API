@@ -1,5 +1,5 @@
 <h1 align="center">MongoSK-API</h1>
-<p align="center">MongoSK-API est un skript permettant d'utiliser facilement l'add-on MongoSK !</p><br />
+<p align="center">MongoSK-API est un skript permettant d'utiliser facilement l'add-on MongoSK.</p><br />
 
 ## 🏹 **Comment le télécharger et l'installer ?**
 Pour télécharger ce code, ils vous suffit de cliquer [ici](https://github.com/MaxouLeKangou/MongoSK-API/releases/tag/v1.0.0) ! Vous pouvez ensuite mettre ce code dans votre dossier `plugins/Skript/scripts`.
