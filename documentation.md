@@ -3,7 +3,7 @@
 
 ## 🏹 Plus d'informations ?
 Vous souhaitez avoir des informations sur comment télécharger et installer ce code ?
-Rendez vous sur cette page : [README.md](https://github.com/Maxime-LEGRAND/MongoSK-API/blob/principal/README.md)
+Rendez vous sur cette page : [README.md](https://github.com/MaxouLeKangou/MongoSK-API/blob/principal/README.md)
 
 ## 👩🏻‍💻 MONGO_RequestValue
 - **_Cette fonction si dessous, va vous permettre de récupérer une valeur._**
